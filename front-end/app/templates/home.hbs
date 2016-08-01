@@ -1,0 +1,23 @@
+{{outlet}}
+
+<div class="container">
+  <div class="row">
+    <h1 class="col-sm-12">Home!</h1>
+  </div>
+
+  <ul class="main-followers row">
+    {{#each model as |follower| }}
+    <li class="main-follower col-sm-4">
+      <img src="{{follower.avi}}" class="main-follower-avi">
+      <div class="main-follower-deets">
+        <h3>{{follower.name}}</h3>
+        <h5>@{{follower.handle}}</h5>
+      </div>
+    </li>
+    {{/each}}
+  </ul>
+</div>
+
+
+
+{{test-input}}

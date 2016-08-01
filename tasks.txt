@@ -1,0 +1,42 @@
+TODOS
+===
+  Tipsy:
+    - Authenticate with Twitter, hit Twitter API
+
+  Chris:
+    - Get front-end infrastructure up and running
+      - This tutorial:  https://www.devmynd.com/blog/2014-7-rails-ember-js-with-the-ember-cli-redux/
+      - Ember, Ember-CLI, Webpack
+      - Scottpoop:  Webpack / babel / QUnit / testem / jQuery / Redux
+
+
+MISSION
+===
+
+mission:  I want to go throw a list of people I follow, view a bunch of custom indicators about that person, and then unfollow that person.
+  indicators:
+    - people who follow them
+    - number of people who follow them total
+      - #1 / #2 ?
+    - number of people they follow
+    - follow ratio
+    - bio
+    - LAST TWEET LIKED/RETWEETED
+    - website
+    - mutuals?
+    - last 5 (?) tweets from that person
+      - maybe *best* last 5 tweets from that person?
+    - tweet frequency (tweets / day)
+    - people they follow
+    - most frequent hashtags in last (30 days?)
+    - time of following
+    - tweet you liked/retweeted/commented-on before following?
+    - number of liked/retweeted/commented-on tweets
+
+  ui:
+    - make it like twitter's current UI, but better (?)
+    - snappy UI functionality (show off ember)
+    - queue unfollows!
+
+  research:
+    live-video of tipsy naked going through her twitter followers & talking about process

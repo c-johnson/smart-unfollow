@@ -1,0 +1,3 @@
+Grab-bag of questions, impressions, extrapolations:
+
+- Are "addons" good?  I'm curious how you're supposed to orchestrate them with running apps.  Is there an easy way to tell which addons are running, and how to remove them?  Other than pouring over node-modules.  Why addons over (say) bower?
